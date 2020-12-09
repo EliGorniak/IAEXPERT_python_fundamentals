@@ -2,7 +2,7 @@
     IA EXPERT Python Fundamentals
 </h1>
 <p align="center">
-    ![](opengraph-icon-200x200.png)
+    ![picture alt](opengraph-icon-200x200.png)
 </p>
 
 - Here there are the content and exercises of Python Fundamentals Course from IA Expert.

@@ -1,5 +1,5 @@
 <h1 align="center">
-    IA EXPERT Python Fundamentals
+    Python Fundamentals from IA EXPERT Academy Course
 </h1>
 
 ![picture alt](python-basics.jpg "python") 
